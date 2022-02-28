@@ -1,0 +1,98 @@
+body {
+    background-color: rgb(35, 25, 58);
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2%;
+}
+
+p, li {
+    color: whitesmoke;
+    font-size: 14px;
+
+}
+
+li{
+    color: burlywood;
+    height: 25px;
+}
+
+h1, h4 {
+    color: tomato;
+}
+
+#titulo {
+    line-height: 100px;
+    text-align: center;
+    letter-spacing: -1px;
+    font-size: 40px;
+
+}
+
+#minha_foto {
+    float: left;
+    padding: 10px;
+    background-color: tomato;
+
+}
+
+.button {
+    background-color: tomato;
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 12px;
+    border-radius: 15px;
+}
+
+
+
+.quadro-image{
+    height: 450px;
+    position: relative;
+    border: chartreuse solid 2px;
+}
+
+.descricao{
+    border: red solid 1px;
+    position: relative;
+    
+    
+
+    
+}
+
+.habilidades{
+    font-weight: bold;
+    line-height: 40px;
+}
+
+.meu_nome{
+    text-align: center;
+}
+
+.hab_consolidada{
+    border: solid 1px white;
+    height: 150px;
+    font-weight: bold;
+    background-image: url("https://idocode.com.br/wp-content/uploads/2020/05/0-destaque-linguagens-de-programacao-2019.jpg");
+    
+}
+
+.hab_future{
+    border: solid 1px white;
+    margin-bottom: 35px;
+    height: 150px;
+    font-weight: bold;
+    background-image: url("https://idocode.com.br/wp-content/uploads/2020/05/0-destaque-linguagens-de-programacao-2019.jpg");
+}
+
+.button{
+    padding: 10px;
+    
+}
+
+/* #contato{
+    background-color: wheat;
+    border: turquoise solid 1px;
+    margin-bottom: 35px;
+    
+} */
