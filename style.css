@@ -96,6 +96,16 @@ h1, h4 {
     
 }
 
+a{
+    padding: 5px;
+    background-color: tomato;
+    border-radius: 10px;
+}
+
+a:hover{
+    color: black;
+}
+
 /* #contato{
     background-color: wheat;
     border: turquoise solid 1px;
