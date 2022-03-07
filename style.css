@@ -11,8 +11,10 @@ p, li {
 
 }
 
-p{
+.sobre_mim{
     text-align: justify;
+    text-indent: 20px;
+    letter-spacing: 2px;
 }
 
 li{
