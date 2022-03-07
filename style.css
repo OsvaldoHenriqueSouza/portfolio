@@ -11,6 +11,10 @@ p, li {
 
 }
 
+p{
+    text-align: justify;
+}
+
 li{
     color: burlywood;
     height: 25px;
@@ -96,3 +100,4 @@ h1, h4 {
     margin-bottom: 35px;
     
 } */
+ 
